@@ -5,8 +5,8 @@ Step-by-step procedure for setting up and running the system
 User authentication details if this info is not provided in the user manual section
 of the written report
 
-# Generate_data.py must be run before any other files in order to populate database
-# Previous database will be automatically deleted if program is rerun
+Generate_data.py must be run before any other files in order to populate database
+Previous database will be automatically deleted if program is rerun
 
 # Instructions to run distributed system using three-tiered approach
 1. Pyro5 must be installed on local machine for RPC communication
